@@ -6,7 +6,7 @@ Wear AR Face Mask of your favorite IPL team!
 ## Usage 
 Download ZIP of the entire project, extract the files and run the ```FaceMaskFilter2.arproj``` file
 Choose any one of out of 8 teams from the Native UI Picker
-Tap on the screen to play the anthe, of the team to groove along!
+Tap on the screen to play the anthem, of the team to groove along!
 
 ## Demo
 Click the video image to watch the demo on YouTube
