@@ -17,7 +17,7 @@ Click the video image to watch the demo on YouTube
 [![](http://img.youtube.com/vi/Kqvbh-L6vmQ/0.jpg)](http://www.youtube.com/watch?v=Kqvbh-L6vmQ "AR Based Face Mask Filter IPL")
 
 ## Credits
-A special thanks to all the resources listed below, without whom this project would not have been possible
+A special thanks to all the resources listed below, without which this project would have not been possible
 * [Spark AR Documentation](https://sparkar.facebook.com/ar-studio/learn/)
 * [QKnow Design](https://www.youtube.com/channel/UC_ycBf44SNpOc7w6kvYkufA)
 * [Boon Jun Aw](https://arvrjourney.com/using-native-ui-picker-in-spark-ar-to-toggle-visibility-of-object-for-instagram-filters-8a92403cd902)
