@@ -11,7 +11,7 @@ Tap on the screen to play the anthem, of the team to groove along!
 **Try out the filter yourself by clicking [here](https://www.instagram.com/ar/316643376105767/)**
 
 ## Demo
-Click the video image to watch the demo on YouTube
+Click the video image to watch the demo on YouTube.
 
 
 [![](http://img.youtube.com/vi/Kqvbh-L6vmQ/0.jpg)](http://www.youtube.com/watch?v=Kqvbh-L6vmQ "AR Based Face Mask Filter IPL")
